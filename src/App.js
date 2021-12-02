@@ -5,7 +5,9 @@ import GalleryReact from "./component/TabMenu/GalleryReact";
 const App = () => {
   return (
     <>
-     <GalleryReact />
+     <div className="main-div">
+       
+     </div>
     </>
   )
 }
